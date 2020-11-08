@@ -1,0 +1,5 @@
+Video of the project : https://drive.google.com/file/d/1KCH5i44TRYhPcnkEZ65wJ4ME5Vtbgta_/view?usp=sharing
+Contain a  web applciation in ASP.Net Core.
+We have a list of  restaurant that we can edit (delete, remove or edit restaurant opperations)
+Each restaurant is in an SQL local database in a docker container.
+Multiple pages navigations.
